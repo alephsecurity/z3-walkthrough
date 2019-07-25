@@ -12,4 +12,4 @@ Note the output from this command, since it contains a line similar to this:
 
   http://(05640c9d300f or 127.0.0.1):8888/?token=e9a3e49b8fa92db5ba006c6a0c18d319bb361134cf1ab02f
   
-Click the link or go to http://localhost:8888 and use the string after the '?toke=' to login to Jupyter.
+Click the link or go to http://localhost:8888 and use the string after the '?token=' to login to Jupyter.
