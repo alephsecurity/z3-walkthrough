@@ -3,6 +3,7 @@ This repository contains a Dockerfile to setup the environemnt used in """link t
 
 # Using the Repo
 Requirements: git, docker
+
 After cloning the repo, run:
 
   docker build -t z3_walkthrough .; docker run -it -p 8888:8888 z3_walkthrough
