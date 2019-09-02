@@ -1,5 +1,5 @@
 # Z3 Demo Environment
-This repository contains a Dockerfile to setup the environemnt used in """link to post""".
+This repository contains a Dockerfile to setup the environemnt used in https://alephsecurity.com/2019/09/02/Z3-for-webapp-security/.
 
 # Using the Repo
 Requirements: git, docker
